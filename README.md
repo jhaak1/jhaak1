@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jhaak1
-- 👀 I’m interested in bioinformatics, machine learning, data visualization, cancer research, and antibodies.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Jeremy Haakenson, a computational biologist and data scientist with a background in cancer research and antibody discovery.  I mainly use R, Python, and Bash to get things done.
+
 
 <!---
 jhaak1/jhaak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
