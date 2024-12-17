@@ -1,4 +1,4 @@
-<font size="4">
+<font size="12">
 👋 Hi, I’m Jeremy Haakenson, a computational biologist and data scientist with a background in cancer research and antibody discovery.  I mainly use R, Python, and Bash to get things done.
 </font>
 <!---
